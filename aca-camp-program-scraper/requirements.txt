@@ -1,0 +1,7 @@
+pika
+pymongo
+python-dotenv
+loads
+requests
+lxml
+python-dateutil
